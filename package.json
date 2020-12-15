@@ -4,8 +4,8 @@
   "description": "demo chat app",
   "main": "index.js",
   "scripts": {
-    "run" : "node serve.js",
-    "start" : "node serve.js",
+    "run" : "node server.js",
+    "start" : "node server.js",
     "test": "jasmine"
   },
   "author": "",
